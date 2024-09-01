@@ -8,7 +8,7 @@
 //    }
 //}
 
-//class cleanRobot: Robot
+//class cleanRobot : Robot
 //{
 //    public void Move()
 //    {
@@ -16,7 +16,7 @@
 //    }
 //}
 
-//class rescueRobot: Robot
+//class rescueRobot : Robot
 //{
 //    public void Move()
 //    {
